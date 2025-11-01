@@ -20,10 +20,10 @@ El código incluye:
 
 Proyecto/
 │── notebooks/
-│   ├── Descarga_datos.ipynb       
-│   ├── Proyecto.ipynb             
+│   ├── Descarga_datos.ipynb       # Notebook para descarga y preparación de datos
+│   ├── Proyecto.ipynb             # Notebook principal del proyecto
 │
-├── .gitignore                    
+└── .gitignore                     # Archivos ignorados (datos, .pth, .pkl, etc.)
 
 
 ---
