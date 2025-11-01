@@ -20,13 +20,12 @@ El código incluye:
 
 ## 📂 Estructura del Proyecto
 
-Proyecto/
- ├── notebooks/
- │    ├── Descarga_datos.ipynb      — Notebook para descarga y preparación de datos  
- │    ├── Proyecto.ipynb            — Notebook principal del proyecto  
- │
- ├── .gitignore                     — Ignora datos, .pth, .pkl, etc.  
- └── README.md                      — Documentación del proyecto
+- **Proyecto/**
+  - **notebooks/**
+    - `Descarga_datos.ipynb` — Notebook para descarga y preparación de datos  
+    - `Proyecto.ipynb` — Notebook principal del proyecto  
+  - `.gitignore` — Ignora datos, `.pth`, `.pkl`, etc.  
+  - `README.md` — Documentación del proyecto
 
 
 ---
