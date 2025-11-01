@@ -18,6 +18,7 @@ El código incluye:
 
 ## 📂 Estructura del Proyecto
 
+
 Proyecto/
 │── notebooks/
 │   ├── Descarga_datos.ipynb       # Notebook para descarga y preparación de datos
@@ -51,7 +52,7 @@ matplotlib
 
 ---
 
-📊 Resultados Esperados
+## 📊 Resultados Esperados
 
 | Modelo | Accuracy aprox. |
 | ------ | --------------- |
@@ -62,7 +63,7 @@ Las gráficas y métricas se imprimen en consola al finalizar.
 
 ---
 
-🧠 Idea Principal
+## 🧠 Idea Principal
 
 Este proyecto sirve para:
 
@@ -76,6 +77,6 @@ Guarda del mejor modelo y métricas
 
 ---
 
-✨ Autor
+## ✨ Autor
 
 Brenda Fernanda Noguez Ruiz
