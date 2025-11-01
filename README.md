@@ -14,10 +14,11 @@ El código incluye:
 - Curvas de aprendizaje
 - Guardado de mejores modelos `.pth`
 
+
 ---
 
-## 📂 Estructura del Proyecto
 
+## 📂 Estructura del Proyecto
 
 Proyecto/
 │── notebooks/
@@ -29,6 +30,7 @@ Proyecto/
 
 ---
 
+
 ## 🧪 Dataset
 
 Se usa **CIFAR-10**, 60,000 imágenes (32×32×3, 10 clases):
@@ -37,20 +39,9 @@ Se usa **CIFAR-10**, 60,000 imágenes (32×32×3, 10 clases):
 - 10,000 para pruebas
 - Se redivide a 80% train / 10% val / 10% test
 
----
-
-## ⚙️ Requerimientos
-
-```bash
-python 3.8+
-torch
-torchvision
-numpy
-pickle
-scikit-learn
-matplotlib
 
 ---
+
 
 ## 📊 Resultados Esperados
 
@@ -67,13 +58,10 @@ Las gráficas y métricas se imprimen en consola al finalizar.
 
 Este proyecto sirve para:
 
-Entender diferencias entre MLP y CNN
-
-Manejo manual de CIFAR-10 desde pickle
-
-Implementación de early stopping
-
-Guarda del mejor modelo y métricas
+- Entender diferencias entre MLP y CNN  
+- Manejo manual de CIFAR-10 desde pickle  
+- Implementación de early stopping  
+- Guardado del mejor modelo y métricas  
 
 ---
 
